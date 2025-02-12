@@ -8,3 +8,7 @@ Deberán crear una página web que funcione como un módulo para ver la lista de
 
 El diseño debe basarse en un prototipo de pantalla, emulando el estilo de la plataforma del **campus virtual de la Universidad del Magdalena**.
 ## Imagen Guía:
+![Texto alternativo](doc/imagen-guia.png)
+
+## Resultados:
+![Texto alternativo](doc/resultado.png)
