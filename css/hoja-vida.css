@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2 {
+    color: #1e3a8a;
+}
+
+header, main, footer {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #1e3a8a;
+}
+
+#foto-perfil {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#foto-perfil img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #1e3a8a;
+}
+
+section {
+    padding: 15px;
+    border-bottom: 1px solid #1e3a8a;
+}
+
+.icon-redes img{
+    width: 30px;
+    height: 30px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#habilidades {
+    display: flex;
+    justify-content: space-between;
+}
+
+#soft-skills, #hard-skills {
+    width: 40%;
+    background: #e0e7ff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#soft-skills h3, #hard-skills h3 {
+    color: #1e3a8a;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    background-color: #1e3a8a;
+    color: white;
+    border-radius: 10px;
+}
+
+
